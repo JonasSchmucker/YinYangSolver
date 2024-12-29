@@ -6,7 +6,7 @@ This solver utilizes the z3 SAT-solver
 ## Usage
 
 ```bash
-./main.py levels/prod_15x15.csv
+./main.py levels/prod_6x6.csv
 ```
 
 Output:
